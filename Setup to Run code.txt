@@ -1,0 +1,4 @@
+1. install MinGW, VS code and add MinGW to path
+        search(edit environment variable...) -> path 
+2. extensions(vs code)- i) code runner      ii)c/c++(by microsoft)
+3. To take i/p - setting -> code runner -> Run in terminal
