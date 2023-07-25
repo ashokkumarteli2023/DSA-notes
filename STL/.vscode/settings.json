@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "algorithm": "cpp"
+    },
+    "workbench.commandPalette.preserveInput": true,
+    "code-runner.runInTerminal": true
+}
